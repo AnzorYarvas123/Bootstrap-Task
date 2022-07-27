@@ -1,0 +1,52 @@
+.navbar {
+    color: rgb(196, 196, 196);
+    font-size: 25px;
+    position: relative;
+    right: 10px;
+    bottom: 5px;
+
+}
+
+
+.nav-link {
+    color: white;
+    font-size: 18px;
+}
+
+
+h2 {
+    font-size: 40px;
+}
+
+.para {
+    font-size: 20px;
+}
+
+
+.big-div {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.buttons {
+    background-color: rgb(93, 93, 72);
+    color: rgb(213, 214, 214);
+
+}
+
+.buttons:hover {
+    background-color: #4400ba;
+    color: white;
+}
+
+
+.paraghraf {
+    width: 350px;
+}
+
+footer {
+    margin-top: 70px;
+    margin-left: 190px;
+}
